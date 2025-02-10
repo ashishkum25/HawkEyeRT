@@ -1,0 +1,29 @@
+{
+  "name": "hawkeyert",
+  "version": "1.0.0",
+  "description": "## Overview **Real-Time Device Tracking System** is a web application that enables real-time tracking of devices on an interactive map. Built using **Node.js, Express, Socket.io**, and integrated with mapping technologies, this project allows users to monitor device locations dynamically.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishkum25/HawkEyeRT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishkum25/HawkEyeRT/issues"
+  },
+  "homepage": "https://github.com/ashishkum25/HawkEyeRT#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
